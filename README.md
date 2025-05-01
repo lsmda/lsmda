@@ -1,5 +1,9 @@
-## Less code means less bugs
+## Less code, fewer bugs 🐞
 
-I'm Lucas, I write software and read books.
+I'm Lucas, I write software and read books
 
-Currently studying systems architecture and functional programming. When the planets align I like to study economics.
+### tl;dr
+
+- Studying **systems architecture** and **functional programming**
+- **Certified sysadmin** running a NixOS homelab (source: trust me)
+- Ocasionally diving into economics and finance
