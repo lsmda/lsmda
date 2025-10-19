@@ -1,1 +1,1 @@
-I'm **lsmda**, I write software and read books.
+I write software and read books.
